@@ -1,7 +1,7 @@
 # Space Mission Anlaysis Project Overview
 Data science/analytic project
 <li>Created a web scarper using python selenium module</li>
-<li>Scraped over 18,000 mission launches from 1957 to present(2023) from <a href="https://nextspaceflight.com/"> here</a></li>
+<li>Scraped over 18,000 mission launches from 1957 to present(2023) from <a href="https://nextspaceflight.com/"> nextspaceflight.com</a></li>
 
 <h3><b> Code and Resources Used</b></h3>
 <hr>
