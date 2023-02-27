@@ -29,7 +29,7 @@ Data science/analytic project
 <h3><b> EDA </b></h3>
 <hr>
 I looked at the distribution of the data and the value counts for various categorical varibales. Below are few highlight from the pivot tables.
-<img src= "https://user-images.githubusercontent.com/47937864/221652093-2d0924ed-67c0-4cd0-bf8d-f6e55404b63e.png">
-<img src="https://user-images.githubusercontent.com/47937864/221652141-fe5c6046-0c34-4a5a-83fe-34849ed14cf9.png">
-<img src="https://user-images.githubusercontent.com/47937864/221652214-050317f7-46a4-4723-9597-2b470e8af591.png">
+<img src= "https://user-images.githubusercontent.com/47937864/221653171-55b60adb-b554-43e9-9d43-7c4b4f8f2a34.png" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/47937864/221653093-0cc8556f-0194-47ad-bfdb-db91adc8f760.png" width="400" height="500" >
+<img src="https://user-images.githubusercontent.com/47937864/221653003-2b468888-ee38-4b1c-858b-d5ee388656bb.png" width="400" height="500">
 
