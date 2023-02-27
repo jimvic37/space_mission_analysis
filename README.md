@@ -33,4 +33,4 @@ I looked at the distribution of the data and the value counts for various catego
 <img src="https://user-images.githubusercontent.com/47937864/221653093-0cc8556f-0194-47ad-bfdb-db91adc8f760.png" width="800" height="500" >
 <img src="https://user-images.githubusercontent.com/47937864/221653003-2b468888-ee38-4b1c-858b-d5ee388656bb.png" width="800" height="500">
 
-# Some chart may not show in the github. Recommend using google colab for better visualization
+
