@@ -31,7 +31,9 @@ Data science/analytic project
 <hr>
 I looked at the distribution of the data and the value counts for various categorical varibales. Below are few highlight from the pivot tables.
 <img src= "https://user-images.githubusercontent.com/47937864/221653171-55b60adb-b554-43e9-9d43-7c4b4f8f2a34.png" width="800" height="500">
-<img src= "https://user-images.githubusercontent.com/47937864/221653171-55b60adb-b554-43e9-9d43-7c4b4f8f2a34.png" width="800" height="500">
+<img src= "https://user-images.githubusercontent.com/47937864/225448435-c1e42c0f-3db0-43d6-a0a4-2cc5fd0da655.png" width="800" height="500">
+<img src= "https://user-images.githubusercontent.com/47937864/225448720-220243c9-187d-4a51-8e5f-4ea652313f7e.png" width="800" height="500">
+
 
 
 
